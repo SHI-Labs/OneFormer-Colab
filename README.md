@@ -15,7 +15,7 @@
 
 This repo contains the code for the colab demo for our paper **OneFormer: One Transformer to Rule Universal Image Segmentation**. For more information about OneFormer, please check out our [Project Page](https://praeclarumjj3.github.io/oneformer/) and [GitHub repo](https://github.com/SHI-Labs/OneFormer).
 
-<img src="images/teaser.svg" width="100%"/>
+<img src="images/teaser.png" width="100%"/>
 
 ## Citation
 
