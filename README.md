@@ -20,7 +20,7 @@ This repo contains the code for the colab demo for our paper **OneFormer: One Tr
 If you found OneFormer useful in your research, please consider starring ⭐ us on GitHub and citing 📚 us in your research!
 
 ```bibtex
-@inproceedings{jain2022oneformer,
+@inproceedings{jain2023oneformer,
       title={{OneFormer: One Transformer to Rule Universal Image Segmentation}},
       author={Jitesh Jain and Jiachen Li and MangTik Chiu and Ali Hassani and Nikita Orlov and Humphrey Shi},
       journal={CVPR}, 
